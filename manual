@@ -1,0 +1,54 @@
+Cubietruck 
+
+Introduction
+
+Cubieboard is an open-source hardware designed to provide an accessible single-board computer manipulation for educational and personal purposes. To date, this device has three versions – the cubieboard1, the cubieboard2 and the cubieboard3, also known as cubietruck. The most recent version, the cubietruck, has the highest hardware specifications compared to the previous versions.
+(source: http://docs.cubieboard.org/_detail/products/a20-cubietruck.png?id=tutorials%3Acubietruck%3Astart)
+
+The cubietruck is released on 2013 with Chinese language as medium of instruction manual. The following instructions provides an English version of handling the cubietruck from the scratch. 
+
+Hardware Specifications
+AllWinnerTech SOC A20 ARM® Cortex™-A7 Dual-Core ARM® Mali400 MP2 Complies with OpenGL ES 2.0/1.1
+1GB/2GB DDR3@480MHz
+HDMI&VGA 1080P display output on-board
+10M/100M/1G Ethernet
+Wifi+BT wireless connection with antenna on-board
+SATA 2.0 interface support 2.5’ HDD (for 3.5’ HDD, only need another 12V power input)
+Storage solution NAND+MicroSD or TSD+ MicroSD or 2*MicroSD
+2 x USB HOST 1 x OTG 1 x SPDIF 1 x IR 4 x LEDs 1 Headphone 3 x Keys
+Power DC5V @ 2.5A with HDD support Li-battery & RTC
+54 extended pins including I2S, I2C, SPI, CVBS, LRADC x2,UART, PS2, PWMx2, TS/CSI, IRDA, LINEIN&FMIN, TVINx4 with 2.0 pitch connectors
+PCB size 11cm *8cm*1.4mm very suitable for installing a 2.5’ HDD
+Software Specifications
+● Preinstall android 4.x
+● Support lubunut 12.04 destkop, ubuntu 13.03 server
+● Support Fedora 18
+● Support Kali Linux
+● Support Debian Linux
+
+Requirements
+Power Adapter (rated 2.5 A)
+Power Cable (already included in the package)
+HDMI Cable / VGA Cable (this manual uses VGA-cabled Monitor)
+USB Mouse and Keyboard
+Micro-USB atleast 4GB Memory
+Windows-operated Computer (this is vital to format and install the cubietruck)
+
+NOTE: (for intended user)
+
+Cubietruck is an open-source where everyone can contribute to the development and enhancement of the said hardware or software. This manual is derived from a user’s previous experience and is created solely without any intention other than contributing to the open-source industry. If found errors, please visit github
+
+
+Instruction Manual
+
+Part 1 - Hardware Installation
+
+
+Part 2
+//software
+
+Sources:
+An Introduction to Cubieboard http://dl.cubieboard.org/software/ubuntuone/public/cubieboard/docs/introduction_to_cubieboard.pdf
+Cubieboard Docs
+http://docs.cubieboard.org/tutorials/cubietruck/start
+
